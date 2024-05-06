@@ -31,6 +31,9 @@ const myName = "Kenny"
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+const numero1 = 12
+const numero2 = 20
+console.log("Risultato della somma :",numero1 + numero2);
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
