@@ -59,6 +59,7 @@ myName = "Boateng"
 const numero3 = 4
 console.log("Risultato della sottrazione :",numero3 - x);
 
+
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
  Verifica che name1 sia diversa da name2 (suggerimento: è la stessa cosa di verificare che la loro uguaglianza sia falsa).
@@ -66,3 +67,7 @@ console.log("Risultato della sottrazione :",numero3 - x);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+const name1 = "john"
+const name2 = "John"
+console.log(!("name1 è diverso da name2?", name1 === name2));
+
