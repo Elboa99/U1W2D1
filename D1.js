@@ -11,7 +11,12 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/* SCRIVI QUI LA TUA RISPOSTA
+Esistono 3 tipi principali di datatype:
+1) Stringhe: queste definiscono una sequenza di caratteri che possono rappresentare sia delle parole che dei numeri, devono essere specificati con le virgolette
+2)Numeri: queste definiscono dai valori numerici (sia interi che decimali) e a differenza delle stringhe non vengono identificate con le virgolette
+3) Booleani: questi definiscono se una condizione è vera oppure falsa. I risultati di verifica di queste condizioni sono solo due : vero (true) e falso (false)
+*/
 
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
