@@ -70,4 +70,5 @@ console.log("Risultato della sottrazione :",numero3 - x);
 const name1 = "john"
 const name2 = "John"
 console.log(!("name1 è diverso da name2?", name1 === name2));
+console.log("name1 è uguale a name2?",name1 === name2 || name1 !== name2 );
 
