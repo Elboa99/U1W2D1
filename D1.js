@@ -20,9 +20,11 @@ Esistono 3 tipi principali di datatype:
 
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
+ 
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+const myName = "Kenny"
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
