@@ -24,7 +24,7 @@ Esistono 3 tipi principali di datatype:
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-const myName = "Kenny"
+let myName = "Kenny"
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
@@ -39,15 +39,18 @@ console.log("Risultato della somma :",numero1 + numero2);
  Crea una variable di nome "x" e assegna ad essa il numero 12.
 */
 
+
 /* SCRIVI QUI LA TUA RISPOSTA */
+const x = 12
 
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "myName" già esistente: il tuo cognome.
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
 
+/* SCRIVI QUI LA TUA RISPOSTA */
+let myName = "Boateng"
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
